@@ -653,7 +653,7 @@ ul {
   font-size: 1.6rem;
   color: #7e7e7e;
   line-height: 28px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .footer-social-icon span {
