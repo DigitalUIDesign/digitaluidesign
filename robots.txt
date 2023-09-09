@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://digitaluidesign.com/sitemap.xml 
+Sitemap: https://digitaluidesign.in/sitemap.xml 
